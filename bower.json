@@ -1,5 +1,5 @@
 {
-  "name": "pdfjs-dist",
+  "name": "pdfjs-dist-show-sig",
   "version": "2.3.200",
   "main": [
     "build/pdf.js",
