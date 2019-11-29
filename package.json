@@ -2,7 +2,7 @@
   "name": "pdfjs-dist-show-sig",
   "version": "2.3.200",
   "main": "build/pdf.js",
-  "description": "Generic build of Mozilla's PDF.js library.",
+  "description": "Generic build of Mozilla's PDF.js library. ",
   "keywords": [
     "Mozilla",
     "pdf",
